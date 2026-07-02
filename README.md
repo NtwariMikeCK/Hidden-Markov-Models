@@ -1,4 +1,3 @@
-# Hidden-Markov-Models
 # Human Activity Recognition Using Hidden Markov Models (HMM)
 
 ##  Project Overview
