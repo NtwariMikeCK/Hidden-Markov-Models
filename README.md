@@ -36,6 +36,8 @@ The goal is to transform raw time-series sensor data into meaningful activity pr
 │   ├── still/
 │   ├── cleaned/              # Preprocessed & synchronized data
 │
+├── graphs/                   # Contains the graphs obtained from the notebook
+│
 ├── features.csv             # Extracted feature dataset
 ├── hmm_model.ipynb          # Main implementation notebook
 ├── README.md                # Project documentation
